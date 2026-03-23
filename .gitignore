@@ -4,3 +4,6 @@ browse/dist/
 *.log
 bun.lock
 *.bun-build
+
+# Environment variables
+.env*
